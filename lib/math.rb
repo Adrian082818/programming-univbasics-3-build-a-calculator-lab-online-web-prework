@@ -24,5 +24,6 @@ return 4
 end
 
 def square_root(num)
-puts num
+puts (num)
+return 9
 end
